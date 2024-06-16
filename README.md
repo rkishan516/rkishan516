@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Kishan Rathore
 
-I'm a full-stack developer with experience in multiple languages, from Dart, Java, Kotlin to Python, I love creating experiences that make people's lives easier. From solving a small nudge to helping people find themselves I am excited to design, code and iterate on ideas that will solve a need.
+I’m a passionate Full-Stack Developer with a diverse skill set in languages such as Dart, Java, Kotlin, and Python. I thrive on creating intuitive and impactful experiences that make people’s lives easier. Whether it’s addressing a minor inconvenience or developing a solution that helps individuals discover themselves, I’m dedicated to designing, coding, and iterating on ideas that meet real needs.
 
 I loves to convert idea💡 into code 🧑🏻‍💻
 
