@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Kishan Rathore
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&color=FFFFFF&pause=1000&random=false&width=500&lines=Hi+there%F0%9F%91%8B%2C+My+name+is+Kishan+Rathore)](https://git.io/typing-svg)
 
 I’m a passionate Full-Stack Developer with a diverse skill set in languages such as Dart, Java, Kotlin, and Python. I thrive on creating intuitive and impactful experiences that make people’s lives easier. Whether it’s addressing a minor inconvenience or developing a solution that helps individuals discover themselves, I’m dedicated to designing, coding, and iterating on ideas that meet real needs.
 
